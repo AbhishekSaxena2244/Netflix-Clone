@@ -1,6 +1,4 @@
 # Netflix-Clone
 
-Clone of the Netflix website landing page. Built with:
-
-HTML, CSS, JavaScript
+Clone of the Netflix website landing page. Built with: HTML, CSS, JavaScript
 Take a look - https://abhisheksaxena2244.github.io/Netflix-Clone/
